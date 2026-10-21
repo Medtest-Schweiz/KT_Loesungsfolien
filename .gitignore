@@ -1,0 +1,9 @@
+# Alles ignorieren ...
+*
+
+# ... außer diesen Dateien
+!.gitignore
+!.nojekyll
+!README.md
+!KT/
+!KT/*.json
